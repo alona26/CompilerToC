@@ -1,5 +1,4 @@
 # Intro to Compilation Course- Final Project
-Alona Rozner- 315638155
 Bison and Flex were used to create this compiler.
 
 To compile:
